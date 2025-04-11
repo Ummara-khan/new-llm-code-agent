@@ -28,7 +28,7 @@ import glob
 
 # Paths
 questions_parts_folder = r"D:\code of llm\compressed_parts"
-data_path = r"D:\code of llm\data.json"
+data_path = r"data.json"
 
 # Function to load JSON safely
 def load_json(path):
